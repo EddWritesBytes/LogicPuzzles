@@ -1,1 +1,1 @@
-![It's a tie question.](its_a_tie.png)
+![It's a tie question.](images/its_a_tie.png)
