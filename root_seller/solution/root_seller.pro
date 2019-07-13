@@ -32,9 +32,6 @@ solve :-
                    [morien, MorienAffliction, MorienHerb, MorienLocation],
                    [saradin, SaradinAffliction, SaradinHerb, SaradinLocation],
                    [uther, UtherAffliction, UtherHerb, UtherLocation] ],
-    
-    % (\+) ([patient, affliction, herb, location], Quadruples),
-    % \+ member([_, leprechauns, daughter], Triples),
 
     % The herb used to treat Katricia isn't bruiseleaf
     \+ member([katricia, _, bruiseleaf, _], Quadruples),
